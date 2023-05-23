@@ -1,4 +1,4 @@
-Isuk Isuk tungku lengo nyangking botol
+# Godspeed... 2004-20XX
 
 <!---
 ChocolateMaltk/ChocolateMaltk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
