@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Malik</h1>  
 <h2 align="center">An aspiring informatics student from Indonesia.</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chocolatemaltk&label=Profile%20views&color=0e75b6&style=flat" alt="chocolatemaltk" /> </p>  
-  
 You know what? I'm trying to focus on Cyber Security for now. If that works, new career option. For Web Development i'm holding on learning until NextJS 15 drops (Of course there has to be React19 GA first) and Astro 5. Other than that, expect low activity on this github account. People change, that's for sure!
+
+Entering a new chapter in life where I discover and what not. Learning should not be limited to anything!
+
+06/06/24 - Removed that corny counter.
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
